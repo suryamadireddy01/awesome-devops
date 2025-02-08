@@ -75,6 +75,12 @@ DevOps is a movement. There's [no certificate, role, set of tools or prescriptiv
 ### Bug/Issue Tracking
 
 ### Build Tools
+- [Maven](https://maven.apache.org/) - Java-based build automation tool.
+- [Gradle](https://gradle.org/) - Open-source build automation tool for Java, Kotlin, and Groovy
+- [Make](https://www.gnu.org/software/make/) - A classic Unix build tool for automating tasks.
+- [Bazel](https://bazel.build/) - Scalable build system used by Google.
+- [CMake](https://cmake.org/) - Cross-platform tool to manage software builds.
+- [Ant](https://ant.apache.org/) - Another Java build tool, predecessor to Maven.
 
 ### Configuration Management
 
